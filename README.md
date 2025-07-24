@@ -3,7 +3,7 @@
 Welcome to my personal developer portfolio website!  
 This is a fully responsive, interactive, and modern website showcasing my technical skills, projects, certifications, achievements, and experience in AI, full-stack development, and product prototyping.
 
-Deployed Link :  https://atmaruthiportfolio.vercel.app/
+Deployed Link :  https://atmaruthi.vercel.app/
 
 ---
 
