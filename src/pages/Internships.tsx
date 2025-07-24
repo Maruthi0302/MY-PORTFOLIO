@@ -5,7 +5,7 @@ const Internships = () => {
   const internships = [
     {
       company: 'Turtil.co',
-      logo: '/screenshot.png',
+      logo: '/images/turtil.png',
       role: 'Backend Developer Intern',
       duration: 'May 2025 - June 2025',
       location: 'Hybrid',
